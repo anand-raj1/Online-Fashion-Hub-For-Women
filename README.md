@@ -1,8 +1,8 @@
-# Online-Fashion-Hub-For-Women
-Author-Anand Raj Pandey
-Responsive website 
-#Front End Project:-
+# Online-Fashion-Hub-For-Women<br>
+Author-Anand Raj Pandey<br>
+Responsive website <br>
+#Front End Project:-<br>
 #Techology used:-Bootsrap
-This is an online fashion hub dummy website for Women
+This is an online fashion hub dummy website for Women<br>
 where a women san see their daily use pruducts and they can explore the website
  
